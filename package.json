@@ -1,0 +1,40 @@
+{
+  "name": "suriyawan-saffari",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@crisp/chatbox": "^1.0.0",
+    "@google-pay/button-react": "^3.0.0",
+    "@supabase/supabase-js": "^2.0.0",
+    "@zxing/browser": "^0.1.0",
+    "crypto-js": "^4.1.1",
+    "firebase-admin": "^11.0.0",
+    "googleapis": "^105.0.0",
+    "next": "latest",
+    "next-auth": "^4.0.0",
+    "next-themes": "^0.2.0",
+    "pdf-lib": "^1.17.1",
+    "react": "latest",
+    "recharts": "^2.1.0",
+    "shadcn-ui": "^0.0.4",
+    "twilio": "^4.0.0",
+    "zod": "^3.18.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.0",
+    "@testing-library/react": "^12.1.0",
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.0",
+    "cypress": "^10.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "latest",
+    "jest": "^28.1.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.0.0",
+    "typescript": "^4.7.0"
+  }
+}
