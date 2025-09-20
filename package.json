@@ -7,7 +7,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@crisp/chatbox": "^1.0.0",
     "@google-pay/button-react": "^3.0.0",
     "@supabase/supabase-js": "^2.0.0",
     "@zxing/browser": "^0.1.0",
@@ -22,7 +21,8 @@
     "recharts": "^2.1.0",
     "shadcn-ui": "^0.0.4",
     "twilio": "^4.0.0",
-    "zod": "^3.18.0"
+    "zod": "^3.18.0",
+    "crisp-sdk-web": "^1.0.0" // Crisp का सही पैकेज ऐड किया गया
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.0",
