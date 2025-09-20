@@ -22,7 +22,7 @@
     "shadcn-ui": "^0.0.4",
     "twilio": "^4.0.0",
     "zod": "^3.18.0",
-    "crisp-sdk-web": "^1.0.0" // Crisp का सही पैकेज ऐड किया गया
+    "crisp-sdk-web": "^1.0.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.0",
