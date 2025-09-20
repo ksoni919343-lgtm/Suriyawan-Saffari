@@ -10,7 +10,7 @@
     "@google-pay/button-react": "^3.0.0",
     "@supabase/supabase-js": "^2.0.0",
     "@zxing/browser": "^0.1.0",
-    "autoprefixer": "^10.4.19", // Added for Tailwind
+    "autoprefixer": "^10.4.19",
     "crypto-js": "^4.1.1",
     "firebase-admin": "^11.0.0",
     "googleapis": "^105.0.0",
@@ -19,7 +19,7 @@
     "next-themes": "^0.2.0",
     "pdf-lib": "^1.17.1",
     "react": "latest",
-    "react-dom": "latest", // Added as required by Next.js
+    "react-dom": "latest",
     "recharts": "^2.1.0",
     "twilio": "^4.0.0",
     "zod": "^3.18.0",
@@ -31,7 +31,7 @@
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.0",
     "cypress": "^10.0.0",
-    "eslint": "^9.11.1", // Updated to supported version
+    "eslint": "^9.11.1",
     "eslint-config-next": "latest",
     "jest": "^28.1.0",
     "postcss": "^8.4.0",
